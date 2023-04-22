@@ -5,6 +5,13 @@
 ## 構築手順
 
 ```bash
+# cloneする
+$ git clone git@github.com:shouya0504/laravel8.git
+
+# 移動する
+$ cd laravel8
+
+# コンテナを作成する
 $ docker-compose up -d
 
 # 確認用
